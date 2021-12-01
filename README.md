@@ -1,4 +1,14 @@
 ### Hi there 👋
+My name is Igor. I'm a CS student and a Software Developer at [Insituto Atlântico](https://www.linkedin.com/company/instituto-atlantico/). Currently, I'm working with C#, .NET Core and Oracle Databases, among other things.
+
+### Those are my profiles
+---
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseigor/)](https://www.linkedin.com/in/joseigor/) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Igor03)](https://github.com/Igor03) [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/carvalho_joseigor/)](https://www.instagram.com/carvalho_joseigor/)
+
+### Email
+---
+[j.igor@outlook.com](mailto:j.igor@outlook.com)
+
 
 <!--
 **Igor03/Igor03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
